@@ -525,7 +525,7 @@ important;
 	/*## [TAG-VIP] ##*/
 	
        /*# [Mario_Papaco] #*/
-#user-rollover.id-36045885 .level:after {
+#user-rollover.id-000000 .level:after {
     background-image: url(none);
     background-repeat: no-repeat;
     content: "[VIP]";
@@ -536,7 +536,7 @@ important;
     padding: 0 0 0 18px;
 }
        /*# [Julio_Papaco] #*/
-#user-rollover.id-24189766 .level:after {
+#user-rollover.id-000000 .level:after {
     background-image: url(none);
     background-repeat: no-repeat;
     content: "[VIP]";
