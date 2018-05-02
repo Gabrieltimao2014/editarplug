@@ -12,7 +12,7 @@
 }
 /*#### [ICONE DA SALA] ####*/
 .icon-room {
-    background: url(http://icons.iconarchive.com/icons/google/noto-emoji-objects/32/62964-pistol-icon.png) no-repeat;
+    background: url( ) no-repeat;
     width: 38px !important;
     height: 38px !important;
     top: 8px !important;
@@ -986,7 +986,7 @@ linear-gradient(to right, hsl(0, 0%, 0%), hsl(0, 0%, 0%)) !important;
 
     /*## [Staff] ##*/
 
-        /*# [NightPlug] #*/
+        /*# [Mario_Papaco] #*/
 #user-rollover.id-30619682 .badge-box > i.bdg,
 .id-30619682 > .badge-box > i.bdg
 {
@@ -994,8 +994,8 @@ linear-gradient(to right, hsl(0, 0%, 0%), hsl(0, 0%, 0%)) !important;
 
 ("https://image.prntscr.com/image/L6YS1zFSQpG1lkvhCNP0XA.gif");
 }
-        /*# [Percyvall] #*/
-#user-rollover.id-29319764 .badge-box > i.bdg,
+        /*# [Juli_Papaco] #*/
+#user-rollover.id-24189766 .badge-box > i.bdg,
 .id-29319764 > .badge-box > i.bdg
 {
 	background-image:   url
